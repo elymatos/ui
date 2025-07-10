@@ -1,6 +1,6 @@
 # Comprehensive Card System Documentation
 
-A complete guide to implementing and using cards in your application, combining Fomantic-UI's card system with custom extensions for specific use cases.
+A complete guide to implementing and using cards in your FrameNet application, combining Fomantic-UI's card system with custom extensions for specific use cases.
 
 ---
 
